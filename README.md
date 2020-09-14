@@ -20,6 +20,10 @@ The following **optional** features are implemented:
 * [ ] Using locale-specific currency and currency thousands separators.
 * [ ] Making sure the keyboard is always visible and the bill amount is always the first responder. This way the user doesn't have to tap anywhere to use this app. Just launch the app and start typing.
 
+The following **additional** features are implemented:
+
+- [Yes] Made it so that the bill amount can be split based on the amount of people on the split slider (range: 1 - 10 People)
+
 
 ## Video Walkthrough
 
