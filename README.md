@@ -23,6 +23,8 @@ The following **optional** features are implemented:
 The following **additional** features are implemented:
 
 - [Yes] Made it so that the bill amount can be split based on the amount of people on the split slider (range: 1 - 10 People)
+- [Yes] Slight Improved UI of App from the template 
+
 
 
 ## Video Walkthrough
